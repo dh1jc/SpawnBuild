@@ -1,0 +1,8 @@
+name: SpawnBuild
+main: de.dh1jc.bukkit.SpawnBuild
+version: 0.1
+
+permissions:
+  spawnbuild:
+    default: false
+    description: Enables a player to build in spawn safe area
