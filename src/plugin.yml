@@ -1,5 +1,5 @@
 name: SpawnBuild
-main: de.dh1jc.bukkit.SpawnBuild
+main: de.dh1jc.bukkit.plugin.SpawnBuild
 version: 0.2
 
 permissions:
