@@ -1,5 +1,12 @@
 # Radius around SpawnPoint a mortal cannot build 
+# allowOp      : are ops allowed to build even without permission
+# allowCreative: are creative players allowed to build even without permission
+# allowFight   : is fighting allowed in safe area
+# allowDamage  : do you take damage in safe area
+
 spawnbuild:
   spawn-radius: 10
   allowOp: false
   allowCreative: false
+  allowFight: true
+  allowDamage: true

@@ -1,8 +1,14 @@
 name: SpawnBuild
 main: de.dh1jc.bukkit.plugin.SpawnBuild
-version: 0.2
+version: 0.3
 
 permissions:
   spawnbuild:
-    default: false
+    default: op
     description: Enables a player to build in spawn safe area
+  spawnbuild.fight:
+    default: true
+    description: Enables a player to fight in spawn safe area
+  spawnbuild.safe:
+    default: false
+    description: Enables a player to be reistant to damage in spawn safe area
