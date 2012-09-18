@@ -8,5 +8,3 @@ spawnbuild:
   spawn-radius: 10
   allowOp: false
   allowCreative: false
-  allowFight: true
-  allowDamage: true
